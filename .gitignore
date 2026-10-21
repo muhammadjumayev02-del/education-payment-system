@@ -1,0 +1,15 @@
+.venv/
+.venv312/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.env
+.env.*
+!.env.example
+*.db
+*.db-*
+*.sqlite*
+.idea/
+.coverage
+htmlcov/
+dist/
